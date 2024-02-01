@@ -10,4 +10,4 @@ This inaugural hackathon will focus exclusively on advancing the delivery of the
 
 ## Apply to participate
 
-[CloudNativeHacks 2024 Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdsPJGr5ot1CuloirdXTEzuKVqU_oDCyIJrXHwZOXmVttqGgA/viewform)
+[CloudNativeHacks 2024 Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdsPJGr5ot1CuloirdXTEzuKVqU_oDCyIJrXHwZOXmVttqGgA/viewform).
